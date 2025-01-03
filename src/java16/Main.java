@@ -136,8 +136,10 @@ public class Main {
             }
             persons.add((new Person(s, age, gander2)));
 
+
         }
         return persons;
+
     }
 
     public static List<Animal> add2() {
@@ -165,5 +167,6 @@ public class Main {
         }
         return animals;
     }
+
 
 }

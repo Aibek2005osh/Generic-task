@@ -1,4 +1,7 @@
-package Gander;
+package java16.enums;
 
-public class Gander {
+public enum Gander {
+    MALE,
+
+    FEMALE,
 }

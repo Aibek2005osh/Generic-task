@@ -165,6 +165,8 @@ public class Main {
             animals.add((new Animal(s, age, gander2)));
 
         }
+
+
         return animals;
     }
 
